@@ -10,7 +10,7 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Czas start!!");
+            Console.WriteLine("Czas start!");
             Console.ReadKey();
         }
     }
