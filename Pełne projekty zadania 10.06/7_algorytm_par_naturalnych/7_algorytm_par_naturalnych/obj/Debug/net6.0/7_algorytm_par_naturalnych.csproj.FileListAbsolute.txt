@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\7_algorytm_par_naturalnych.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\7_algorytm_par_naturalnych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\7_algorytm_par_naturalnych.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\7_algorytm_par_naturalnych.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\7_algorytm_par_naturalnych.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\bin\Debug\net6.0\7_algorytm_par_naturalnych.exe
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\bin\Debug\net6.0\7_algorytm_par_naturalnych.deps.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\bin\Debug\net6.0\7_algorytm_par_naturalnych.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\bin\Debug\net6.0\7_algorytm_par_naturalnych.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\bin\Debug\net6.0\7_algorytm_par_naturalnych.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\7_algorytm_par_naturalnych.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\refint\7_algorytm_par_naturalnych.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\7_algorytm_par_naturalnych.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\7_algorytm_par_naturalnych.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\7_algorytm_par_naturalnych\7_algorytm_par_naturalnych\obj\Debug\net6.0\ref\7_algorytm_par_naturalnych.dll

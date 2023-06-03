@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\8_algorytm_do_zgadywania.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\8_algorytm_do_zgadywania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\8_algorytm_do_zgadywania.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\8_algorytm_do_zgadywania.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\8_algorytm_do_zgadywania.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\bin\Debug\net6.0\8_algorytm_do_zgadywania.exe
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\bin\Debug\net6.0\8_algorytm_do_zgadywania.deps.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\bin\Debug\net6.0\8_algorytm_do_zgadywania.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\bin\Debug\net6.0\8_algorytm_do_zgadywania.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\bin\Debug\net6.0\8_algorytm_do_zgadywania.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\8_algorytm_do_zgadywania.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\refint\8_algorytm_do_zgadywania.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\8_algorytm_do_zgadywania.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\8_algorytm_do_zgadywania.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\8_algorytm_do_zgadywania\8_algorytm_do_zgadywania\obj\Debug\net6.0\ref\8_algorytm_do_zgadywania.dll

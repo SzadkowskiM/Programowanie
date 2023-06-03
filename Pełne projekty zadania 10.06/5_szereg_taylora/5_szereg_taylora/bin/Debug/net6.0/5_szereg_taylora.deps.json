@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "5_szereg_taylora/1.0.0": {
+        "runtime": {
+          "5_szereg_taylora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5_szereg_taylora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

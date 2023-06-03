@@ -1,0 +1,30 @@
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\bin\Debug\net6.0\Zadanie 6.exe
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\bin\Debug\net6.0\Zadanie 6.deps.json
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\bin\Debug\net6.0\Zadanie 6.runtimeconfig.json
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\bin\Debug\net6.0\Zadanie 6.dll
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\bin\Debug\net6.0\Zadanie 6.pdb
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\Zadanie 6.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\Zadanie 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\Zadanie 6.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\Zadanie 6.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\Zadanie 6.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\Zadanie 6.dll
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\refint\Zadanie 6.dll
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\Zadanie 6.pdb
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\Zadanie 6.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadanie 6\Zadanie 6\obj\Debug\net6.0\ref\Zadanie 6.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\bin\Debug\net6.0\Zadanie 6.exe
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\bin\Debug\net6.0\Zadanie 6.deps.json
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\bin\Debug\net6.0\Zadanie 6.runtimeconfig.json
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\bin\Debug\net6.0\Zadanie 6.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\bin\Debug\net6.0\Zadanie 6.pdb
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\Zadanie 6.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\Zadanie 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\Zadanie 6.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\Zadanie 6.AssemblyInfo.cs
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\Zadanie 6.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\Zadanie 6.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\refint\Zadanie 6.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\Zadanie 6.pdb
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\Zadanie 6.genruntimeconfig.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\6_boki_trojkata\Zadanie 6\obj\Debug\net6.0\ref\Zadanie 6.dll

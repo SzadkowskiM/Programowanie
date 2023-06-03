@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\bin\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.exe
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\bin\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.deps.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\bin\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\bin\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\bin\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\refint\4_zarobek_na_koncie_oszczędnościowym.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\4_zarobek_na_koncie_oszczędnościowym.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\4_zarobek_na_koncie_oszczędnościowym\4_zarobek_na_koncie_oszczędnościowym\obj\Debug\net6.0\ref\4_zarobek_na_koncie_oszczędnościowym.dll

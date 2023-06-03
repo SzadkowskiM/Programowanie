@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "4_zarobek_na_koncie_oszczędnościowym/1.0.0": {
+        "runtime": {
+          "4_zarobek_na_koncie_oszczędnościowym.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4_zarobek_na_koncie_oszczędnościowym/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

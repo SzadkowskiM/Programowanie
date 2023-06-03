@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\5_szereg_taylora.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\5_szereg_taylora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\5_szereg_taylora.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\5_szereg_taylora.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\5_szereg_taylora.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\bin\Debug\net6.0\5_szereg_taylora.exe
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\bin\Debug\net6.0\5_szereg_taylora.deps.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\bin\Debug\net6.0\5_szereg_taylora.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\bin\Debug\net6.0\5_szereg_taylora.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\bin\Debug\net6.0\5_szereg_taylora.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\5_szereg_taylora.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\refint\5_szereg_taylora.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\5_szereg_taylora.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\5_szereg_taylora.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\5_szereg_taylora\5_szereg_taylora\obj\Debug\net6.0\ref\5_szereg_taylora.dll

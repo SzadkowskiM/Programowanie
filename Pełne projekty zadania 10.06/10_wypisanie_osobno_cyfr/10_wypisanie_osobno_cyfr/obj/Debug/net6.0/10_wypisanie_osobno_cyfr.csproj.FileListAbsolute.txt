@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\10_wypisanie_osobno_cyfr.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\10_wypisanie_osobno_cyfr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\10_wypisanie_osobno_cyfr.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\10_wypisanie_osobno_cyfr.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\10_wypisanie_osobno_cyfr.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\bin\Debug\net6.0\10_wypisanie_osobno_cyfr.exe
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\bin\Debug\net6.0\10_wypisanie_osobno_cyfr.deps.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\bin\Debug\net6.0\10_wypisanie_osobno_cyfr.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\bin\Debug\net6.0\10_wypisanie_osobno_cyfr.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\bin\Debug\net6.0\10_wypisanie_osobno_cyfr.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\10_wypisanie_osobno_cyfr.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\refint\10_wypisanie_osobno_cyfr.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\10_wypisanie_osobno_cyfr.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\10_wypisanie_osobno_cyfr.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\10_wypisanie_osobno_cyfr\10_wypisanie_osobno_cyfr\obj\Debug\net6.0\ref\10_wypisanie_osobno_cyfr.dll

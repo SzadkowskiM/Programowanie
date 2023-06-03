@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\bin\Debug\net6.0\3_równanie_z_silnią.exe
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\bin\Debug\net6.0\3_równanie_z_silnią.deps.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\bin\Debug\net6.0\3_równanie_z_silnią.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\bin\Debug\net6.0\3_równanie_z_silnią.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\bin\Debug\net6.0\3_równanie_z_silnią.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\3_równanie_z_silnią.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\3_równanie_z_silnią.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\3_równanie_z_silnią.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\3_równanie_z_silnią.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\3_równanie_z_silnią.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\3_równanie_z_silnią.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\refint\3_równanie_z_silnią.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\3_równanie_z_silnią.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\3_równanie_z_silnią.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\3_równanie_z_silnią\3_równanie_z_silnią\obj\Debug\net6.0\ref\3_równanie_z_silnią.dll

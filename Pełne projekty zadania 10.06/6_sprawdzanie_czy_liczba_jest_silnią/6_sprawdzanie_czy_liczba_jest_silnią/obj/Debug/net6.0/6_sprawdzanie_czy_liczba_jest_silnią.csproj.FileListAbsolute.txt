@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\bin\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.exe
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\bin\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.deps.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\bin\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\bin\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\bin\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\refint\6_sprawdzanie_czy_liczba_jest_silnią.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\6_sprawdzanie_czy_liczba_jest_silnią.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\6_sprawdzanie_czy_liczba_jest_silnią\6_sprawdzanie_czy_liczba_jest_silnią\obj\Debug\net6.0\ref\6_sprawdzanie_czy_liczba_jest_silnią.dll

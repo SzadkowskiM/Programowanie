@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\2_ciąg_fibonacciego.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\2_ciąg_fibonacciego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\2_ciąg_fibonacciego.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\2_ciąg_fibonacciego.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\2_ciąg_fibonacciego.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\bin\Debug\net6.0\2_ciąg_fibonacciego.exe
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\bin\Debug\net6.0\2_ciąg_fibonacciego.deps.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\bin\Debug\net6.0\2_ciąg_fibonacciego.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\bin\Debug\net6.0\2_ciąg_fibonacciego.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\bin\Debug\net6.0\2_ciąg_fibonacciego.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\2_ciąg_fibonacciego.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\refint\2_ciąg_fibonacciego.dll
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\2_ciąg_fibonacciego.pdb
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\2_ciąg_fibonacciego.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 10.06.2023\2_ciąg_fibonacciego\2_ciąg_fibonacciego\obj\Debug\net6.0\ref\2_ciąg_fibonacciego.dll
