@@ -6,12 +6,15 @@ public class MyProgram
     {
         double a,b,c, srednia;
 
+	Console.WriteLine(Podaj a");
         a = inputValue();
+	Console.WriteLine(Podaj b");
         b = inputValue();
+	Console.WriteLine(Podaj c");
         c = inputValue();
 
         srednia = (a + b + c) / 3;
-        Console.WriteLine(srednia);
+        Console.WriteLine($"Średnia wynosi :{srednia}");
     }
 
     private static double inputValue()
