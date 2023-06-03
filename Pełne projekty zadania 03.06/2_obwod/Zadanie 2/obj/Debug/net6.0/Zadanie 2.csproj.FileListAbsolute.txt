@@ -1,0 +1,45 @@
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.exe
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.deps.json
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.runtimeconfig.json
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.dll
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.pdb
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.dll
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\refint\Zadanie 2.dll
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.pdb
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadanie 2\Zadanie 2\obj\Debug\net6.0\ref\Zadanie 2.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.exe
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.deps.json
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.runtimeconfig.json
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\bin\Debug\net6.0\Zadanie 2.pdb
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.AssemblyInfo.cs
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\refint\Zadanie 2.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.pdb
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\Zadanie 2.genruntimeconfig.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Zadania 03.06.2023\Zadanie 2\Zadanie 2\obj\Debug\net6.0\ref\Zadanie 2.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\bin\Debug\net6.0\Zadanie 2.exe
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\bin\Debug\net6.0\Zadanie 2.deps.json
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\bin\Debug\net6.0\Zadanie 2.runtimeconfig.json
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\bin\Debug\net6.0\Zadanie 2.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\bin\Debug\net6.0\Zadanie 2.pdb
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\Zadanie 2.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\Zadanie 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\Zadanie 2.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\Zadanie 2.AssemblyInfo.cs
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\Zadanie 2.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\Zadanie 2.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\refint\Zadanie 2.dll
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\Zadanie 2.pdb
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\Zadanie 2.genruntimeconfig.cache
+C:\Users\macie\source\repos\SzadkowskiM\Programowanie\Pełne projekty zadania 03.06\2_obwod\Zadanie 2\obj\Debug\net6.0\ref\Zadanie 2.dll
