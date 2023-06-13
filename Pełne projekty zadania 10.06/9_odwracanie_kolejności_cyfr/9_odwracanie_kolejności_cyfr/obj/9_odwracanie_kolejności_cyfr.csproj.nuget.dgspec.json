@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\macie\\source\\repos\\Zadania 10.06.2023\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr.csproj": {}
+    "C:\\Users\\macie\\source\\repos\\Programowanie\\Pełne projekty zadania 10.06\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\macie\\source\\repos\\Zadania 10.06.2023\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr.csproj": {
+    "C:\\Users\\macie\\source\\repos\\Programowanie\\Pełne projekty zadania 10.06\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\macie\\source\\repos\\Zadania 10.06.2023\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr.csproj",
+        "projectUniqueName": "C:\\Users\\macie\\source\\repos\\Programowanie\\Pełne projekty zadania 10.06\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr.csproj",
         "projectName": "9_odwracanie_kolejności_cyfr",
-        "projectPath": "C:\\Users\\macie\\source\\repos\\Zadania 10.06.2023\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr.csproj",
+        "projectPath": "C:\\Users\\macie\\source\\repos\\Programowanie\\Pełne projekty zadania 10.06\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr.csproj",
         "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\macie\\source\\repos\\Zadania 10.06.2023\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\obj\\",
+        "outputPath": "C:\\Users\\macie\\source\\repos\\Programowanie\\Pełne projekty zadania 10.06\\9_odwracanie_kolejności_cyfr\\9_odwracanie_kolejności_cyfr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

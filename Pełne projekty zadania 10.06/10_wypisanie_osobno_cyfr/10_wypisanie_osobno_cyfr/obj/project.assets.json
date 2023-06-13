@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\macie\\source\\repos\\Zadania 10.06.2023\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr.csproj",
+      "projectUniqueName": "C:\\Users\\macie\\source\\repos\\Programowanie\\Pełne projekty zadania 10.06\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr.csproj",
       "projectName": "10_wypisanie_osobno_cyfr",
-      "projectPath": "C:\\Users\\macie\\source\\repos\\Zadania 10.06.2023\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr.csproj",
+      "projectPath": "C:\\Users\\macie\\source\\repos\\Programowanie\\Pełne projekty zadania 10.06\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr.csproj",
       "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\macie\\source\\repos\\Zadania 10.06.2023\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr\\obj\\",
+      "outputPath": "C:\\Users\\macie\\source\\repos\\Programowanie\\Pełne projekty zadania 10.06\\10_wypisanie_osobno_cyfr\\10_wypisanie_osobno_cyfr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

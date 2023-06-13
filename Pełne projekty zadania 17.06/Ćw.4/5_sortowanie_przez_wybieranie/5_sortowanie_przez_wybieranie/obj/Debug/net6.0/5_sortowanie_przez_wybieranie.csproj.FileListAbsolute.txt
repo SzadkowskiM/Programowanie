@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\5_sortowanie_przez_wybieranie.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\5_sortowanie_przez_wybieranie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\5_sortowanie_przez_wybieranie.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\5_sortowanie_przez_wybieranie.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\5_sortowanie_przez_wybieranie.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\bin\Debug\net6.0\5_sortowanie_przez_wybieranie.exe
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\bin\Debug\net6.0\5_sortowanie_przez_wybieranie.deps.json
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\bin\Debug\net6.0\5_sortowanie_przez_wybieranie.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\bin\Debug\net6.0\5_sortowanie_przez_wybieranie.dll
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\bin\Debug\net6.0\5_sortowanie_przez_wybieranie.pdb
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\5_sortowanie_przez_wybieranie.dll
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\refint\5_sortowanie_przez_wybieranie.dll
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\5_sortowanie_przez_wybieranie.pdb
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\5_sortowanie_przez_wybieranie.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 17.06.2023\5_sortowanie_przez_wybieranie\5_sortowanie_przez_wybieranie\obj\Debug\net6.0\ref\5_sortowanie_przez_wybieranie.dll
