@@ -16,14 +16,14 @@ public class MyProgram
         while(indeks <=number_am)
         {
        		dividend = 0;
-                dividend_am = 0;
-                while(dividend_am < 2)
+            dividend_am = 0;
+            while(dividend_am < 2)
+            {
+                dividend++;
+                if(number%dividend==0)
                 {
-                    dividend++;
-                    if(number%dividend==0)
-                    {
-                        dividend_am++;
-                    }
+                    dividend_am++;
+                }
         	}
         	if(number == dividend)
         	{
