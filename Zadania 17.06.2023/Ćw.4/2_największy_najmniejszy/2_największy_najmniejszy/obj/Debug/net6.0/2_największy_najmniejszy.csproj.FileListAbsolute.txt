@@ -1,0 +1,15 @@
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\2_największy_najmniejszy.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\2_największy_najmniejszy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\2_największy_najmniejszy.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\2_największy_najmniejszy.AssemblyInfo.cs
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\2_największy_najmniejszy.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\bin\Debug\net6.0\2_największy_najmniejszy.exe
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\bin\Debug\net6.0\2_największy_najmniejszy.deps.json
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\bin\Debug\net6.0\2_największy_najmniejszy.runtimeconfig.json
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\bin\Debug\net6.0\2_największy_najmniejszy.dll
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\bin\Debug\net6.0\2_największy_najmniejszy.pdb
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\2_największy_najmniejszy.dll
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\refint\2_największy_najmniejszy.dll
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\2_największy_najmniejszy.pdb
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\2_największy_najmniejszy.genruntimeconfig.cache
+C:\Users\macie\source\repos\Zadania 17.06.2023\2_największy_najmniejszy\2_największy_najmniejszy\obj\Debug\net6.0\ref\2_największy_najmniejszy.dll
