@@ -16,19 +16,19 @@ public class Program
         Console.WriteLine();
         for (int i = 0; i < tablica.Length; i++)
         {
-            Console.Write("\t" + tablica[i]);
+            Console.Write(tablica[i] + "\t");
         }
-        double srednia = ObliczSrednia(tablica, wielkosc);
-        Console.WriteLine("\nŚrednia arytmetyczna: " + srednia);
+        double srednia = ObliczanieSredniej(tablica, wielkosc);
+        Console.WriteLine("\nŚrednia arytmetyczna dla powyższego zbioru liczb wynosi: " + srednia);
 
     }
-    public static double ObliczSrednia(double[] tablica, int rozmiar)
+    public static double ObliczanieSredniej(double[] tablica, int rozmiar)
     {
         if (rozmiar == 0)
         {
             return 0;
         }
-        double suma = ObliczSrednia(tablica, rozmiar - 1) * (rozmiar - 1) + tablica[rozmiar - 1];
+        double suma = ObliczanieSredniej(tablica, rozmiar - 1) * (rozmiar - 1) + tablica[rozmiar - 1];
         return suma / rozmiar;
     }
 }
